@@ -31,4 +31,4 @@ nitorch_register:
 nitorch_anatomy:
   - uniseg
 nitorch_plot:
-  - viewer
+  - view
