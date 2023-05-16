@@ -1,0 +1,34 @@
+nitorch_io:
+  - info
+  - convert
+nitorch_qmri:
+  - epic
+  - estatics
+  - greeq
+  - topup
+  - denoise_mri
+nitorch_imtools:
+  - chunk
+  - crop
+  - extract_patches
+  - pad
+  - pool
+  - smooth
+  - unstack
+  - denoise
+  - inpaint
+  - metrics
+nitorch_register:
+  - affreg
+  - autoreg
+  - compose
+  - orient
+  - register
+  - reorient
+  - reslice
+  - simplereg
+  - vexp
+nitorch_anatomy:
+  - uniseg
+nitorch_plot:
+  - viewer
